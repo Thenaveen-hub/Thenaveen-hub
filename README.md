@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and Designing
 - 🌱 I’m currently learning Software development
 - 💞️ I’m looking to collaborate on IT community
-- 📫 How to reach ✉✉
+- 📫 reach me at @ hellonaveen21@gmail.comm
   
 - 
 <!---
