@@ -2,8 +2,8 @@
   </br>
   <br>
 
-- 👀 I’m interested in coding and Designing
-- 🌱 I’m currently learning Software development
+- 👀 I’m working in vibe coding and Designing
+- 🌱 I’m currently into Software development
 - 💞️ I’m looking to collaborate on IT community
 - 📫 reach me at @ hellonaveen21@gmail.comm
 
@@ -18,6 +18,9 @@
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+![python](https://img.shields.io/badge/python-%2300C4CC.svg?style=flat&logo=python&logoColor=white)
+
+
 
 
 <h2 align="left">🌐 Connect</h2>
